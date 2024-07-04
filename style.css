@@ -42,11 +42,28 @@ h1 {
 .wrappericon {
     box-sizing: border-box;
     padding: 5px;
-    width: 313px;
+    width: 400px;
     max-height: 56px;
     border-radius: 25px;
     background: #FFFFFF;
     border: 1px solid #000000;
+}
+
+.wrappericon .rowicon {
+    font-size: 0px;
+    text-align: center;
+}
+
+.wrappericon .rowicon * {
+}
+
+.wrappericon .row:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
 
 .wrappericon .icon {
