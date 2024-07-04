@@ -35,16 +35,16 @@ h1 {
 }
 
 .content {
-    max-width: 400px;
+    max-width: 313px;
     margin: auto;
 }
 
 .wrappericon {
     box-sizing: border-box;
     padding: 5px;
-    width: 400px;
-    max-height: 66px;
-    border-radius: 25px;
+    width: 313px;
+    max-height: 56px;
+    border-radius: 28px;
     background: #FFFFFF;
     border: 1px solid #000000;
 }
@@ -96,7 +96,7 @@ img.trans {
 }
 
 .wrapper .row * {
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .wrapper .row:after {
@@ -115,9 +115,9 @@ img.trans {
     border: 1px solid black;
 
     display: inline-block;
-    height: 25px;
+    height: 16px;
     margin: 1px;
-    width: 40px;
+    width: 30px;
     overflow: hidden;
 }
 
@@ -133,9 +133,9 @@ img.trans {
     border: 1px solid black;
 
     display: inline-block;
-    height: 25px;
+    height: 16px;
     margin: 1px;
-    width: 40px;
+    width: 30px;
     overflow: hidden;
 }
 
@@ -146,9 +146,9 @@ img.trans {
     border: 1px solid black;
 
     display: inline-block;
-    height: 25px;
+    height: 16px;
     margin: 1px;
-    width: 40px;
+    width: 30px;
     overflow: hidden;
 }
 
@@ -159,9 +159,9 @@ img.trans {
     border: 1px solid black;
 
     display: inline-block;
-    height: 25px;
+    height: 16px;
     margin: 1px;
-    width: 40px;
+    width: 30px;
     overflow: hidden;
 }
 
@@ -172,9 +172,9 @@ img.trans {
     border: 1px solid black;
 
     display: inline-block;
-    height: 25px;
+    height: 16px;
     margin: 1px;
-    width: 40px;
+    width: 30px;
     overflow: hidden;
 }
 
@@ -185,9 +185,9 @@ img.trans {
     border: 1px solid black;
 
     display: inline-block;
-    height: 25px;
+    height: 16px;
     margin: 1px;
-    width: 40px;
+    width: 30px;
     overflow: hidden;
 }
 
@@ -198,9 +198,9 @@ img.trans {
     border: 1px solid black;
 
     display: inline-block;
-    height: 25px;
+    height: 16px;
     margin: 1px;
-    width: 40px;
+    width: 30px;
     overflow: hidden;
 }
 
@@ -213,6 +213,6 @@ img.trans {
     display: inline-block;
     height: 10px;
     margin: 1px;
-    width: 40px;
+    width: 30px;
     overflow: hidden;
 }
